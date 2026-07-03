@@ -4,7 +4,7 @@
     .version = "2.0.0",
     .dependencies = .{
         .httpz = .{
-            .url = "git+https://github.com/yxh4n/http.zig?ref=bug/high-cpu#1da1616d99bb4912a11e128bfc16ff94af8f874a",
+            .url = "git+https://github.com/yxh4n/http.zig?ref=bug/high-cpu#ed95b9ae8c75a6d049bb8222349d5943280a0d3a",
             .hash = "httpz-0.0.0-PNVzrCb5CABmgnaDiS-_S5GyS0zis_2jG6m_YmSeodEe",
         },
     },
