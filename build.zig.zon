@@ -4,8 +4,8 @@
     .version = "2.0.0",
     .dependencies = .{
         .httpz = .{
-            .url = "git+https://github.com/yxh4n/http.zig#1a81e022a3aa9a80e90aae28a538ec6165c021d3",
-            .hash = "httpz-0.0.0-PNVzrEH6CAAbtrA9m0DJKs7hxrXeag8VHHUZiDIsasem",
+            .url = "git+https://github.com/yxh4n/http.zig#2144c4cc971bda69f6dd579e923027a0ae2e7e56",
+            .hash = "httpz-0.0.0-PNVzrGv7CADgWdCHvJFGxw0TGY6uIMqp5zO99XNt3bNv",
         },
     },
     .paths = .{
