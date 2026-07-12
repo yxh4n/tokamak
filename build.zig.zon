@@ -4,8 +4,8 @@
     .version = "2.0.0",
     .dependencies = .{
         .httpz = .{
-            .url = "git+https://github.com/yxh4n/http.zig?ref=bug/high-cpu#ed95b9ae8c75a6d049bb8222349d5943280a0d3a",
-            .hash = "httpz-0.0.0-PNVzrCb5CABmgnaDiS-_S5GyS0zis_2jG6m_YmSeodEe",
+            .url = "git+https://github.com/yxh4n/http.zig#1a81e022a3aa9a80e90aae28a538ec6165c021d3",
+            .hash = "httpz-0.0.0-PNVzrEH6CAAbtrA9m0DJKs7hxrXeag8VHHUZiDIsasem",
         },
     },
     .paths = .{
